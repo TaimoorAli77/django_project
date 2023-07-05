@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/media/taimoor/Drive0/Programs/Django/FirstProject_Notes/django_project/venv-django-project"
+set -gx VIRTUAL_ENV "/media/qandeel/Drive0/programs/py projects/django_project/venv-django-project"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

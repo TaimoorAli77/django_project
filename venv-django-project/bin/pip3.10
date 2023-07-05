@@ -1,4 +1,6 @@
-#!/media/taimoor/Drive0/Programs/Django/FirstProject_Notes/django_project/venv-django-project/bin/python3
+#!/bin/sh
+'''exec' "/media/qandeel/Drive0/programs/py projects/django_project/venv-django-project/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
